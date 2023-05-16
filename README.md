@@ -21,5 +21,3 @@
 
 
 
-![snake gif](https://github.com/Larissa-Antunes/Larissa-Antunes/blob/output/github-contribution-grid-snake.svg)
-
