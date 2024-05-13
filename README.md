@@ -13,9 +13,9 @@
 
 ### About me
 
-- 🔭 I am currently working as a Java developer...
-- 🌱 I'm currently learning Spring Tools...-
-- 🎓 I have a degree in Systems Analysis and Development...
+- 🔭 I am currently working as a Java developer.
+- 🌱 I'm currently learning AWS.
+- 🎓 I have a degree in Systems Analysis and Development.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Larissa-Antunes&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD439D&ring=DD43DB&dates=DD3CCB&currStreakLabel=DD3CCB&border=DD3CCB)](https://git.io/streak-stats)
 
